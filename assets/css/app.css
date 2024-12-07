@@ -6142,7 +6142,7 @@ textarea {
   right: 0;
 }
 
-.pricing_head span {
+.pricing_head i {
   font-size: 2.5rem;
   color: #f99a00;
   margin-bottom: 1.5rem;
